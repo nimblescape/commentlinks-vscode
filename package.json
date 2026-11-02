@@ -24,12 +24,12 @@
   "homepage": "https://nimblescape.com",
   "repository": {
     "type": "git",
-    "url": "https://github.com/nimblescape/nimblescape-commentlinks.git"
+    "url": "https://github.com/nimblescape/commentlinks-vscode.git"
   },
   "bugs": {
-    "url": "https://github.com/nimblescape/nimblescape-commentlinks/issues"
+    "url": "https://github.com/nimblescape/commentlinks-vscode/issues"
   },
-  "qna": "https://github.com/nimblescape/nimblescape-commentlinks/issues",
+  "qna": "https://github.com/nimblescape/commentlinks-vscode/issues",
   "pricing": "Free",
   "icon": "resources/icon.png",
   "galleryBanner": {
@@ -51,7 +51,7 @@
     "@eslint/js": "^10.0.1",
     "@types/node": "^24.19.2",
     "@types/vscode": "~1.125.0",
-    "@vscode/vsce": "^4.0.0",
+    "@vscode/vsce": "^4.1.0",
     "esbuild": "^0.28.2",
     "eslint": "^10.13.0",
     "globals": "^17.13.0",
